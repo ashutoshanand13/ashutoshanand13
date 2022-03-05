@@ -1,11 +1,8 @@
 # **Ashutosh Anand**
 
-Noida| Mobile: 8610644651 | Email: ashutosh.anand13@gmail.com
- LinkedIn: [https://in.linkedin.com/in/ashutoshanand13](https://in.linkedin.com/in/ashutoshanand13)
-
 ![](RackMultipart20200806-4-jc8aia_html_ab03a6f56cfde25.gif)
 
-**Responsive and agile development professional experienced in full project lifecycles. Collaborative with clients in order to exceed expectations. Organized and results driven, with the ability to constantly reevaluate customer priorities while delivering timely outcomes. Excellent communicator with active listening skills.**
+**Enthusiastic and well-organized Java developer with 6+ years of experience. Eager to join fast paced company to bring in top class Java development and problem-solving skills. In previous roles applied various architectures to implement fault tolerant system, and used various payment services to work on fintech systems**
 
 **Summary of Qualifications**
 
